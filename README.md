@@ -1,2 +1,2 @@
 # ERP
-This is a lightweight ERP project made with python
+This is a lightweight ERP terminal project made with python
